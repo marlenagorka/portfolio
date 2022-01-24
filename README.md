@@ -12,6 +12,7 @@ Subpages:
 <ul>
 <li>https://protectnowllc.com/ - only slider</li>
 <li>https://protectnowllc.com/id-protection/</li>
+<li>https://protectnowllc.com/threat-ready/</li>
 <li>https://protectnowllc.com/virtual-ciso/</li>
 <li>https://protectnowllc.com/vciso-form/</li>
 <li>https://protectnowllc.com/home-title-lock/</li>
@@ -20,4 +21,4 @@ Subpages:
 <li>https://connectnowinc.com/lead-management-system-integrations/</li>
 <li>https://connectnowinc.com/contact-us/</li>
 <li>https://demo.connectnow.work/optin1612902297824</li>
-  </ul>
+</ul>
