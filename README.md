@@ -3,6 +3,7 @@
 Here is a list of pages and subpages done by me. Each of these projects was designed by a graphic designer.
 
 <strong>Wordpress:</strong>
+
 Pages:
 <ul>
 <li>https://cleanpoolandspaca.com/ (designed and created by me)</li>
@@ -20,9 +21,9 @@ Subpages:
 <li>https://protectnowllc.com/home-title-lock/</li>
 <li>https://protectnowllc.com/password-checker/</li>
 <li>https://protectnowllc.com/hacked-checker/</li>
+<li>https://protectnowllc.com/real-estate-b2b/</li>
 <li>https://connectnowinc.com/lead-management-system-integrations/</li>
 <li>https://connectnowinc.com/contact-us/</li>
-<li>https://demo.connectnow.work/optin1612902297824</li>
 </ul>
 
 <strong>GoHighLevel:</strong>
