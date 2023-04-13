@@ -1,9 +1,11 @@
 # Portfolio
 
-Here is a list of pages and subpages done by me on Wordpress. Each of these projects was designed by a graphic designer.
+Here is a list of pages and subpages done by me. Each of these projects was designed by a graphic designer.
 
+<strong>Wordpress:</strong>
 Pages:
 <ul>
+<li>https://cleanpoolandspaca.com/ (designed and created by me)</li>
 <li>https://orientalfr.com/</li>
 <li>https://connectnowinc.com.mx/</li>
 </ul>
@@ -21,4 +23,11 @@ Subpages:
 <li>https://connectnowinc.com/lead-management-system-integrations/</li>
 <li>https://connectnowinc.com/contact-us/</li>
 <li>https://demo.connectnow.work/optin1612902297824</li>
+</ul>
+
+<strong>GoHighLevel:</strong>
+<ul>
+<li>https://peoplestitlecompany.com/</li>
+<li>https://firstresponse-gutters.com/</li>
+<li>https://raiseyourmedia.com/</li>
 </ul>
